@@ -1,1 +1,1 @@
-
+print("BDG Archive Running")
